@@ -14,7 +14,7 @@ ENDCLASS.
 CLASS zcl_cool_keynote_stuff IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
-    out->write( `Cool Stuff` ).
+    out->write( `Cool New Stuff` ).
   ENDMETHOD.
 
 ENDCLASS.
